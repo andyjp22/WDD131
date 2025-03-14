@@ -46,8 +46,7 @@ a {
 }
 
 nav a:hover {
-    border: 1px solid white;
-    border-radius: 5px;
+    text-decoration-line: underline;
 }
 
 main {
